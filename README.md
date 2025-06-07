@@ -18,6 +18,9 @@ This repository contains Verilog-based digital design projects implemented on th
    - Real-time brightness control using on-board switches
    - Linear duty cycle modulation using a duty shifter module
    - Includes PWM generator and switch interface
+  
+![LOW](images/PWM_Low_input3.png)
+![HIGH](images/PWN_HIGH_input14.png)
 
 Each project includes source code, simulation files, and design documentation.
 
