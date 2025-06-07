@@ -9,9 +9,9 @@ This repository contains Verilog-based digital design projects implemented on th
    - 4-digit 7-segment display with custom encoder
    - Includes clock divider, display multiplexing, and full FPGA flow
    
-![STOP]{images/7Seg_STOP.png}
-![----]{images/7Seg_Blink.png}
-![Go]{images/7Seg_GO.png}
+![STOP](images/7Seg_STOP.png)
+![----](images/7Seg_Blink.png)
+![Go](images/7Seg_GO.png)
 
 
 2. **PWM LED Brightness Controller**
