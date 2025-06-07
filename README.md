@@ -20,7 +20,7 @@ This repository contains Verilog-based digital design projects implemented on th
    - Includes PWM generator and switch interface
   
 ![LOW](images/PWM_Low_input3.png)
-![HIGH](images/PWN_HIGH_input14.png)
+![HIGH](images/PWM_HIGH_input14.png)
 
 Each project includes source code, simulation files, and design documentation.
 
